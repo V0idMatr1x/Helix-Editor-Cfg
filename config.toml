@@ -2,7 +2,7 @@ theme = "dracula_at_night"
 
 [editor]
 line-number = "relative"
-auto-completion = false
+auto-completion = true
 auto-info = true
 completion-trigger-len = 2
 true-color = true
